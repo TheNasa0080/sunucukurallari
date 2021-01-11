@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+Discord Kuralları
 
-You can use the [editor on GitHub](https://github.com/TheNasa0080/sunucukurallari/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+1. Tehdit edici, küfürlü, müstehcen, kaba, nefret dolu yada aşırı sayıda istenmeyen mesajlar göndermek veya sesli odalarda konuşmak; din, dil, ırk ayrımına yönelik iletiler göndermek ve materyaller kullanmak kesinlikle yasaktır.
+2. Yazı kanallarında veya sesli odalarda kişi veya firmaların onurlarını zedeleyecek hakaret, küfür vs. içeren mesajları yazmak kesinlikle yasaktır.
+3. Discorddaki bir kullanıcıyı bir konuda bilgisi olmadığı veya az bilgisi olduğu için veya bir konuda hatalı bilgi verdiği için suçlayıp hakaret edemezsiniz. Böyle durumlarda lütfen olaya kibarca yaklaşın. 4. Yazı kanallarında gereksiz mesajlar yazıp sunucuda gereksiz bir karmaşa yaratanlar önce uyarılıp ardından gerek görülürse sunucudan uzaklaştırılacaktır.
+5. Discordda dil, din, ırk ve siyaset hakkında tartışma yapmak kesinlikle yasaktır, siyasi yazılarınızı siyasi içerikli sunuculara girerek dile getirebilirsiniz, sunucuyu siyasi propaganda için kullananların hesapları yasaklanır.
+6. Mesaj yazarken büyük harf kullanmak bağırmak anlamına geleceği için kesinlikle büyük harf kullanarak yazı yazmayınız.
+7. Discord sohbet merkezi olduğu için gereksiz-kişisel tartışmalara-atışmalara girmek yasaktır. Discord birbirinize meydan okuyacak bir yer değildir.
+8. Başkasına ait kişisel bilgiler yayınlamak yasaktır. (Telefon numarası, E-Posta adresi, Fotoğraf v.b.)
+9. Yetkililer her yazılan mesajı kontrol edemeyebilirler. Yöneticilerden önce uygunsuz bir mesajla karşılaştığınızda lütfen sorumlu yöneticilere bildiriniz.
+10. Yetkililer siteden sorumlu kişilerdir. Gereksiz tartışmalara girmek yasaktır. Discordda yöneticilere dolaylı yoldan sataşmak, üyelik iptalinize neden olabilir. Sorunlarınızı yetkililerin özeline mesaj atarak çözünüz.
+11. Sunucuda üyeler arasında yapılan link ve program paylaşımında, bilgisayarınızda oluşabilecek problemlerden kullanıcılar sorumludur. Bu yolla program indiren kullanıcılar bir virüs tarama programını muhakkak kullanmalıdırlar. Aksi halde yönetim sorumluluk kabul etmez.
+12. Başka Garry's Mod sunucularında oynadığı tespit edilen oyuncular sunucularımızdan süresiz şekilde uzaklaştırılıcaktır.
+13. Başka Garry's Mod sunucu discordlarında bulunan oyuncular sunucularımızdan süresiz şekilde uzaklaştırılıcaktır.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheNasa0080/sunucukurallari/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Discord'da bulunan herkes bu kuralları kabul etmiş sayılır, eğer kural ihlali yaparsa cezalandırılır.
